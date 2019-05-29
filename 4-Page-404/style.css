@@ -1,1 +1,33 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #F9E3CD;
+  text-align: center;
+}
 
+img {
+  width: 500px;
+  margin-top: 170px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+p {
+  font-size: 100px;
+  margin-top: 20px;
+  color: #6B4D2C;
+  text-align: center;
+  font-family: Rockwell;
+}
+
+.button {
+  background-color: #f8b2b9;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: Rockwell;
+}
