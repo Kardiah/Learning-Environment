@@ -1,1 +1,1 @@
-# Exercices de compréhension et construction.
+# Exercices de compréhension et construction
